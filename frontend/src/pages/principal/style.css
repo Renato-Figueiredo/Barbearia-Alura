@@ -1,6 +1,6 @@
 /*Info header*/
 header {
-    background: url(../image/bg.jpg);
+    background: url(../../assets/bg.jpg);
     padding: 20px;
 }
 
@@ -101,3 +101,16 @@ em strong {
 	width: 50%;
 }
 
+/* INFO Fotter */
+
+footer {
+    text-align: center;
+    background: url("../../assets/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}

@@ -1,6 +1,6 @@
 /*Info header*/
 header {
-    background: url(../image/bg.jpg);
+    background: url(../../assets/bg.jpg);
     padding: 20px;
 }
 
@@ -100,7 +100,7 @@ nav a:hover {
 
 footer {
     text-align: center;
-    background: url("../image/bg.jpg");
+    background: url("../../assets/bg.jpg");
     padding: 40px 0;
 }
 
