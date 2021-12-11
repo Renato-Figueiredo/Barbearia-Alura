@@ -109,3 +109,37 @@ footer {
     font-size: 13px;
     margin: 20px 0 0;
 }
+
+/* CSS Mobile */
+
+@media screen and (max-width: 480px) {
+  .caixa, .produtos, .produto-desc {
+    width: auto;
+  }  
+
+  .logo {
+    background: none;
+    padding-bottom: 10px;
+  }
+
+  nav {
+    position: static;
+    text-align: center;
+  }
+
+  nav a {
+    padding: 5px;
+    font-size: 1em;
+  }
+
+  h1 {
+      text-align: center;
+  }
+
+  .produtos li {
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 20px;
+  }
+
+}
